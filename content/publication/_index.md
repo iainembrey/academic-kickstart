@@ -1,5 +1,6 @@
 ---
 title: Publications
+description: published material and working papers
 
 # View.
 #   1 = List

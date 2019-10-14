@@ -58,6 +58,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Iain_Embrey
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9177-2916
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +76,6 @@ user_groups:
 ---
 
 I work toward equality of opportunity. My research shows that ostensibly poor life choices in adolescence may
-arise as an optimal response to early disadvantage. But I also find that adolescents are capable of exerting
-consious control over those choices and their future developmental pathway. My early research sought to
-understand intergenerational poverty; I now also work to change it.
+arise as a rational response to early disadvantage. But I also find that adolescents are capable of exerting
+conscious control over those choices and their future developmental pathway. My early research sought to
+understand intergenerational poverty; I now also work to alleviate it.
